@@ -31,6 +31,9 @@
       <li><a href="https://github.com/vuejs/vue-devtools#vue-devtools" target="_blank" rel="noopener">vue-devtools</a></li>
       <li><a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener">vue-loader</a></li>
       <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
+      <li><a href="https://github.com/jgthms/bulma" target="_blank" rel="noopener">bulma</a></li>
+      <li><a href="https://fontawesome.com" target="_blank" rel="noopener">Font Awesome</a></li>
+      <font-awesome-icon icon="fa-solid fa-font-awesome" />
     </ul>
   </div>
 </template>
